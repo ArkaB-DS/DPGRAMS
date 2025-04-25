@@ -32,16 +32,22 @@ def mean_shift(data, epsilon, delta, initial_modes=None, T=100, C=1.5):
         modes = np.array(new_modes)
     return modes
 
-def merge_modes(modes, bandwidth, k=1):
+def merge_modes(modes, bandwidth, k=2):
     threshold = k * bandwidth
     merged_modes = []
+    counts = []
+
     for mode in modes:
         merged = False
         for i, m in enumerate(merged_modes):
             if np.linalg.norm(mode - m) < threshold:
-                merged_modes[i] = (m + mode) / 2
+                new_count = counts[i] + 1
+                merged_modes[i] = (counts[i] * m + mode) / new_count
+                counts[i] = new_count
                 merged = True
                 break
         if not merged:
             merged_modes.append(mode)
+            counts.append(1)
+
     return np.array(merged_modes)
