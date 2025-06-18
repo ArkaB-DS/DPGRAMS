@@ -1,0 +1,133 @@
+Run 1
+MS Modes:
+[[10.0189]]
+DPMS Modes:
+[[10.8586]]
+
+Run 2
+MS Modes:
+[[10.017]]
+DPMS Modes:
+[[12.8136]
+ [13.3829]
+ [16.7831]]
+
+Run 3
+MS Modes:
+[[10.018]]
+DPMS Modes:
+[[13.4417]]
+
+Run 4
+MS Modes:
+[[10.0174]]
+DPMS Modes:
+[[6.2538]
+ [6.581 ]]
+
+Run 5
+MS Modes:
+[[10.017]]
+DPMS Modes:
+[[6.6203]]
+
+Run 6
+MS Modes:
+[[10.0181]]
+DPMS Modes:
+[[9.2356]]
+
+Run 7
+MS Modes:
+[[10.0204]]
+DPMS Modes:
+[[10.6111]
+ [10.3338]]
+
+Run 8
+MS Modes:
+[[10.0189]]
+DPMS Modes:
+[[ 8.6735]
+ [12.4728]
+ [ 8.1661]]
+
+Run 9
+MS Modes:
+[[10.0165]]
+DPMS Modes:
+[[17.4102]]
+
+Run 10
+MS Modes:
+[[10.0178]]
+DPMS Modes:
+[[8.8931]]
+
+Run 11
+MS Modes:
+[[10.0172]]
+DPMS Modes:
+[[6.3213]]
+
+Run 12
+MS Modes:
+[[10.017]]
+DPMS Modes:
+[[1.2683]
+ [0.5748]]
+
+Run 13
+MS Modes:
+[[10.0152]]
+DPMS Modes:
+[[12.8316]
+ [16.4416]
+ [12.3298]]
+
+Run 14
+MS Modes:
+[[10.0168]]
+DPMS Modes:
+[[12.3854]]
+
+Run 15
+MS Modes:
+[[10.0173]]
+DPMS Modes:
+[[6.3746]
+ [5.965 ]]
+
+Run 16
+MS Modes:
+[[10.0182]]
+DPMS Modes:
+[[7.1743]]
+
+Run 17
+MS Modes:
+[[10.0174]]
+DPMS Modes:
+[[5.581 ]
+ [5.2473]]
+
+Run 18
+MS Modes:
+[[10.0162]]
+DPMS Modes:
+[[14.3395]
+ [14.5693]]
+
+Run 19
+MS Modes:
+[[10.0172]]
+DPMS Modes:
+[[10.7936]
+ [10.526 ]
+ [11.5595]]
+
+Run 20
+MS Modes:
+[[10.0174]]
+DPMS Modes:
+[[9.9835]]

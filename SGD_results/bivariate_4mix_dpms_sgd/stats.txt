@@ -1,0 +1,6 @@
+Sensitivity S: 9.3347e+00
+Data radius R: 5.7195
+Noise var σ²(iid): 4.8931e+04
+Noise var σ²(corr): 2.4466e+03
+Bandwidth h: 0.7663
+ε, δ = (1.0, 1e-06)
